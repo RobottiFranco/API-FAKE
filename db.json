@@ -1,22 +1,25 @@
-[
-    {
-      "name": "Franco",
-      "lastName": "Robotti",
-      "description": "A good boy"
-    },
-    {
-        "name": "Juan",
-        "lastName": "Cavenaghi",
-        "description": "A bad boy"
-      },
-      {
-        "name": "Walter",
-        "lastName": "Peña",
-        "description": "A fanboy"
-      },
-      {
-        "name": "Gaston",
-        "lastName": "Pepe",
-        "description": "A cowboy"
-      }
-]
+{
+    "users" : [
+        {
+          "name": "Franco",
+          "lastName": "Robotti",
+          "description": "A good boy"
+        },
+        {
+            "name": "Juan",
+            "lastName": "Cavenaghi",
+            "description": "A bad boy"
+          },
+          {
+            "name": "Walter",
+            "lastName": "Peña",
+            "description": "A fanboy"
+          },
+          {
+            "name": "Gaston",
+            "lastName": "Pepe",
+            "description": "A cowboy"
+          }
+    ]
+}
+
