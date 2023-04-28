@@ -13,7 +13,7 @@
             "description": "A bad boy"
           },
           {
-            "role" : "Executive"
+            "role" : "Executive",
             "name": "Walter",
             "lastName": "Peña",
             "description": "A fanboy"
