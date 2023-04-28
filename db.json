@@ -1,24 +1,40 @@
 {
     "users" : [
         {
+          "role" : "Boss"
           "name": "Franco",
           "lastName": "Robotti",
           "description": "A good boy"
         },
         {
+            "role" : "Manager"
             "name": "Juan",
             "lastName": "Cavenaghi",
             "description": "A bad boy"
           },
           {
+            "role" : "Executive"
             "name": "Walter",
             "lastName": "Peña",
             "description": "A fanboy"
           },
           {
+            "role" : "CEO"
             "name": "Gaston",
             "lastName": "Pepe",
             "description": "A cowboy"
+          },
+          {
+            "role" : "COO"
+            "name": "Favio",
+            "lastName": "Servetti",
+            "description": "Unidentified flying object"
+          },
+          {
+            "role" : "CFO"
+            "name": "Santiago",
+            "lastName": "Suarez",
+            "description": "A volleyball boy"
           }
     ]
 }
