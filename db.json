@@ -36,6 +36,21 @@
             "lastName": "Suarez",
             "description": "A volleyball boy"
           }
+    ],
+    "colors" : [
+        {
+          "role" : "primaries",
+          "color": "yellow, blue and red"
+        },
+        {
+            "role" : "secondary",
+            "color": "green, orange and purple"
+
+          },
+          {
+            "role" : "tertiaries",
+            "color": "originate from the mixture between a primary color + a secondary color"
+          }
     ]
 }
 
